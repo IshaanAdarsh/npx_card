@@ -4,7 +4,7 @@
   "description": "A personal card for Ishaan Adarsh (@ishaanad9)",
   "main": "card.js",
   "bin": {
-    "ishaan": "./card.js"
+    "ishaan": "card.js"
   },
   "repository": {
     "type": "git",
@@ -33,5 +33,9 @@
     "business card"
   ],
   "author": "Ishaan Adarsh <https://www.linkedin.com/in/ishaan-adarsh-161a56222/> (https://www.linkedin.com/in/ishaan-adarsh-161a56222/)",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IshaanAdarsh/npx_card/issues"
+  },
+  "homepage": "https://github.com/IshaanAdarsh/npx_card#readme"
 }
