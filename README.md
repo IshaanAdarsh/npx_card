@@ -1,4 +1,4 @@
-# NPX CARD
+# NPX CARD 
 This my NPX card to connect with me directly via console or terminal
 
 ```bash
